@@ -1,0 +1,2 @@
+ID,Name,cellNumber,Address,Email -> Saler,Personal,Customer
+ID,Name,surname, cellNumber,Address,Email -> Customer,Personal

@@ -1,0 +1,12 @@
+Hata Not Defteri 
+---------------------------------------------------
+i- Tek seferde tek child. → Gereksiz Görüldü
+ii- DataGridview veri editleme yapılamasın. →√
+iii- Sütun başlığına tıklanınca bozulmayı düzelt. →√
+iv- Child minimize-maximize etmeyi kaldır. 
+v- Datagridview açıldığında row seçili geliyor. →√
+vi-Mail gönderme. →√
+vii- SaveValidations' ı poliformizm olarak ayarla hem e-mail hem textbox boşlukları için.
+viii- user,personal,saler,customer inheritance yap.(person diye bir class aç ve user,personal,saler,customer oradan inheritance et "kullanıcı adı ve password" tek gelsin ve user class'ından gelir.)
+----------------------------------------------------
+www.riemann.com
