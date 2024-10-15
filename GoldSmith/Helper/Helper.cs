@@ -24,4 +24,12 @@ namespace GoldSmith.Helper
             return isEmail;
         }
     }
+
+    //v1.3
+    public class Ogretmen
+    {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+    }
+    //
 }

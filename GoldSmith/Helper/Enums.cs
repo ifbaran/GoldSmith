@@ -15,4 +15,9 @@ namespace GoldSmith.Helper
             Manager
         }
     }
+    public class Ogrenci
+    {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+    }
 }
