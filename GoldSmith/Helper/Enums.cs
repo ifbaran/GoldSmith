@@ -11,7 +11,8 @@ namespace GoldSmith.Helper
         public enum LoginType
         {
             User,
-            Personal
+            Personal,
+            Manager
         }
     }
 }
